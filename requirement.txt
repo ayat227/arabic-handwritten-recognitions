@@ -1,0 +1,12 @@
+You need to install Jupyter Notebook.
+You should also have python worked at version 2.6 or higher.
+You should install Keras.
+you should create anew environment in anaconda
+matplotlib==3.6.2
+tensorflow==2.10.0
+keras==2.10.0
+numpy==1.23.5
+pandas==1.5.2
+scikit-learn==1.2.0
+mlxtend==0.21.0
+opencv-python==4.7.0.68
