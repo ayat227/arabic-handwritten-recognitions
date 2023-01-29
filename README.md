@@ -1,3 +1,4 @@
+![Screenshot 2023-01-29 215603](https://user-images.githubusercontent.com/115387604/215349275-f872cb78-bf9c-4c6d-a153-b3a87bda69b3.png)
 # overview
 Automated handwriting recognition has achieved significant real-world success in targeted applications such as address recognition on mail pieces for sorting automation and reading of courtesy and legal amounts on bank checks, using domain-dependent constraints to make the problem tractable. However, unconstrained handwritten text recognition is still an open problem that is attracting renewed interest as an active area of research due to the proliferation of
 smartphones and tablet devices where handwriting with a finger or stylus is likely to be a potentially convenient mode of input for these handheld devices
